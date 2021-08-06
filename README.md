@@ -29,4 +29,4 @@ index=main EventCode=5145 Access_Mask="0x3"
 #### Screenshot
 ![PetitPotam Detection](petitpotam_detection.png)
 #### Direct Link
-[PetitPotam_Detection.md](petitpotam_detection.md)
+[PetitPotam_Detection.md](PetitPotam_Detection.md)
